@@ -1,5 +1,8 @@
 _repo: Demobilization-our-industrial-and-military-demobilization-after-the-armistice-1918-1920_70714
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70714-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Crowell, Benedict
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '55880'
     url: http://www.gutenberg.org/2009/agents/55880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70714#Demobilization-our-industrial-and-military-demobilization-after-the-armistice-1918-1920
 gutenberg_issued: '2023-05-07'
 identifiers:
   gutenberg: '70714'
